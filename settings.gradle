@@ -1,0 +1,2 @@
+rootProject.name = "PdfYerimi"
+include ':app'
